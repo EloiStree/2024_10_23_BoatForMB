@@ -1,0 +1,20 @@
+{
+    "name": "be.elab.boatmb",
+    "version": "0.0.1",
+    "displayName": "Eloi Boat for Meet and Boat Game",
+    "description": "This tool contains some script and 3D mesh for a boat in the game.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/EloiStree/2024_10_23_BoatForMB",
+    "licensesUrl": "https://github.com/EloiStree/License/blob/master/README.md",
+   "keywords": [
+      "Toolbox",
+      "Script"
+    ],
+    "author": {
+      "name": "Eloi Stree",
+      "email": "eloistree@gmail.com",
+      "url": "https://github.com/EloiStree"
+    }
+  }
+  
